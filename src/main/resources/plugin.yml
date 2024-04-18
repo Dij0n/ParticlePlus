@@ -1,0 +1,6 @@
+name: ParticlePlus
+version: '${project.version}'
+main: dijon.particleplus.ParticlePlus
+api-version: '1.20'
+authors: [DijonMstrd]
+description: A collection of tools to make particle editing easier and quicker for map makers and creators alike
