@@ -17,5 +17,4 @@ public class ParticleObj {
         this.count = count;
     }
 
-
 }
